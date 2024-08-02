@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @aidotudodoo
-- 😄 Pronouns: she/her
+
 
 
 <!---
